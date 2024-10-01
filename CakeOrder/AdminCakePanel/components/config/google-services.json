@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075822182947",
+    "firebase_url": "https://cakeorderapp-af504-default-rtdb.firebaseio.com",
+    "project_id": "cakeorderapp-af504",
+    "storage_bucket": "cakeorderapp-af504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075822182947:android:2207099f0538506355a796",
+        "android_client_info": {
+          "package_name": "com.arv.cakeorders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075822182947-p419nfb19r4frcjlnoffdno9o6mb9hu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arv.cakeorders",
+            "certificate_hash": "d5d03455de3a691f08aa8cf9132fa1adce11405a"
+          }
+        },
+        {
+          "client_id": "1075822182947-d5n02ad6o68uhksjrfo4mp43ce8u9n3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGBURgVp4TytMK1vZcoJ5P2uiWvvTttRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075822182947-d5n02ad6o68uhksjrfo4mp43ce8u9n3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
